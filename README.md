@@ -6,4 +6,4 @@ You can login and get all the information in JSON.
 
 see image...
 
-[](login.png)
+![Login](login.png)
